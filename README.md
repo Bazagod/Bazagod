@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my information are available at [bazagod.github.io/Portfolio](bazagod.github.io/Portfolio)
 
-- 💬 Ask me about **HTML,CSS,JS,ANGULAR**
+- 💬 Ask me about **HTML,CSS,JS,ANGULAR,VUEJS**
 
 - 📫 How to reach me **bazestininon@gmail.com**
 
