@@ -12,7 +12,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/estimé-ninon-bazayo-a827a5329" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  
+  <!-- X (Twitter) -->
+  <a href="https://x.com/bazagod" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40" />
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
