@@ -17,11 +17,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   
-  <!-- X (Twitter) -->
-  <a href="https://x.com/bazagod" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40" />
-  </a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.dev" target="_blank" rel="noreferrer">
