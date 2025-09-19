@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazagod&label=Profile%20views&color=0e75b6&style=flat" alt="bazagod" /> </p>
 
-- 👨‍💻 All of my information are available at https://bazagod.github.io/Portfolio/
+- 👨‍💻 All of my information are available at https://bazagod-portfolio.vercel.app
 
 - 💬 Ask me about **HTML,CSS,JS,ANGULAR,VUEJS**
 
