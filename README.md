@@ -1,5 +1,5 @@
 <h1 align="center">Helloo, I'm BAZAYO Estimé Ninon</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif">
 
@@ -8,7 +8,7 @@
 </p>
 
 - 👨‍💻 All of my information are available at [bazagod-portfolio.vercel.app](https://bazagod-portfolio.vercel.app)
-- 💬 Ask me about **HTML, CSS, JS, React, Next.js, Angular, Vue.js**
+- 💬 Ask me about **HTML, CSS, JS, React, Next.js, Laravel, Angular, Vue.js**
 - 📫 How to reach me **bazestininon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +20,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
