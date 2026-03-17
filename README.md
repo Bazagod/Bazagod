@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=bazagod&label=Profile%20views&color=0e75b6&style=flat" alt="bazagod" /> 
 </p>
 
-- 👨‍💻 All of my information are available at [bazagod-portfolio.vercel.app](https://bazagod-portfolio.vercel.app)
 - 💬 Ask me about **HTML, CSS, JS, React, Next.js, Laravel, Angular, Vue.js**
 - 📫 How to reach me **bazestininon@gmail.com**
 
