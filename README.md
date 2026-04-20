@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=bazagod&label=Profile%20views&color=0e75b6&style=flat" alt="bazagod" /> 
 </p>
 
-- 💬 Ask me about **React, Next.js, Laravel, Vue.js**
+- 💬 Ask me about **Angular, React, Next.js, Laravel, Vue.js**
 - 📫 How to reach me **baza.god@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,9 +28,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <!-- <a href="https://angular.dev" target="_blank" rel="noreferrer">
+  <a href="https://angular.dev" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> -->
+  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
