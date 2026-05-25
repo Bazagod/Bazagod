@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=bazagod&label=Profile%20views&color=0e75b6&style=flat" alt="bazagod" /> 
 </p>
 
-- 💬 Ask me about **Angular, React, Next.js, Laravel, Vue.js**
+- 💬 Ask me about **Angular, ReactJS, Next.js, Vuejs**
 - 📫 How to reach me **baza.god@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
