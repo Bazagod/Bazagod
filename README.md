@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=bazagod&label=Profile%20views&color=0e75b6&style=flat" alt="bazagod" /> 
 </p>
 
-- 💬 Ask me about **Angular, ReactJS, Next.js, Vuejs**
+- 💬 Ask me about **Angular, ReactJS, Next.js, Vuejs,Swift/SwiftUI,...**
 - 📫 How to reach me **baza.god@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -40,6 +40,17 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+
+  <!-- Swift -->
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a>
+
+  <!-- SwiftUI -->
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/>
+  </a>
+
   <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a> -->
